@@ -4,7 +4,7 @@ const emojipedia = [
     emoji: "🙃",
     name: "Upside-Down Face",
     meaning:
-      "“Commonly used to convey irony, sarcasm, joking, or a sense of goofiness or silliness. Its intent can be similar to the bemused Oh well! of 🤷 Person Shrugging or the shruggie emoticon, ¯\_(ツ)_/¯."
+      "“Commonly used to convey irony, sarcasm, joking, or a sense of goofiness or silliness. Its intent can be similar to the bemused Oh well! of 🤷 Person Shrugging or the shruggie emoticon,"
   },
   {
     id: 2,
